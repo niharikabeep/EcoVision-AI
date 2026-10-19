@@ -2,8 +2,8 @@
 
 An AI-powered smart waste segregation and recycling assistant. EcoVision AI uses computer vision and machine learning to classify waste from a photo and suggest the correct way to dispose of it.
 
-**Live website:** 
-https://github.com/niharikabeep/EcoVision-AI
+**Live website:** https://niharikabeep.github.io/EcoVision-AI/
+
 
 ## Overview
 
